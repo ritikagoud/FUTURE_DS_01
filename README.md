@@ -37,7 +37,8 @@ The goal is to support better business decisions through data analysis and visua
 ---
 
 ## Project Files  
-- `Ecommerce_Sales_Analysis.ipynb`  
+- `Ecommerce_Sales_Analysis.ipynb`
+- `sales_data.csv`
 - `README.md`   
 
 ## Conclusion  
